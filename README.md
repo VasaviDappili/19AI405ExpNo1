@@ -38,8 +38,6 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 
-# DEVELOPED BY : MADDUKURI MANI SRI LATHA
-# REG NO: 212223110025
 ```python
 import random
 
